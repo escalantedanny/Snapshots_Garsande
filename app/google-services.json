@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825195368133",
+    "project_id": "snapshotgarsande",
+    "storage_bucket": "snapshotgarsande.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825195368133:android:fc5e01e699855c95f16aac",
+        "android_client_info": {
+          "package_name": "com.descalante.snapshotsgarsande"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825195368133-sabkle3ek0ecaoalidu2uch9dh55ouqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3QoSAVf_J446BCdRaXrWGAqwC4UXpFoE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825195368133-sabkle3ek0ecaoalidu2uch9dh55ouqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
