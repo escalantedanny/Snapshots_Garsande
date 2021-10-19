@@ -9,7 +9,7 @@
     <string name="btn_publicar">Publish</string>
     <string name="title_shot">Title of Screenshot</string>
     <string name="post_message_valid_title">Please add title</string>
-    <string name="facebook_application_id" translatable="false">APP_ID</string>
-    <!-- Facebook Application ID, prefixed by 'fb'. Enables Chrome Custom tabs. -->
-    <string name="facebook_login_protocol_scheme" translatable="false">fbAPP_ID</string>
+    <string name="facebook_app_id">371124011409255</string>
+    <string name="fb_login_protocol_scheme">fb371124011409255</string>
+
 </resources>
